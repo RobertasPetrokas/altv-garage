@@ -42,6 +42,10 @@ li {
   justify-content: end;
 }
 
+li:hover {
+  background: rgba(157, 157, 157, 0.1);
+}
+
 li > .car-img {
   width: 90px;
   height: 50px;
